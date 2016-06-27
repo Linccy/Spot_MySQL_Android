@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spots</string>
+
+    <string name="title_NewsActivity">News</string>
+
+    <string name="title_SpotListActivity">Spot List</string>
+    <string name="title_SpotDetailActivity">Spot Details</string>
+    <string name="title_SpotInsertActivity">Insert Spot</string>
+    <string name="title_SpotUpdateActivity">Update Spot</string>
+    <string name="title_SpotDeleteActivity">Delete Spot</string>
+
+    <string name="col_Name">Name</string>
+    <string name="col_PhoneNo">Phone No</string>
+    <string name="col_Address">Address</string>
+
+    <string name="msg_NoNewsFound">No news found</string>
+    <string name="msg_NoSpotsFound">No spots found</string>
+    <string name="msg_MapNotDisplayed">Map cannot be displayed</string>
+    <string name="msg_ClickAgain">Please click the item again</string>
+
+    <string name="msg_NoNetwork">no network connection available</string>
+
+    <string name="text_Insert">Insert</string>
+
+    <string name="text_Update">Update</string>
+    <string name="text_Delete">Delete</string>
+    <string name="text_SpotId">ISBN Number</string>
+    <string name="text_SpotName">Book Name</string>
+    <string name="text_btCancel">Cancel</string>
+    <string name="btTakePicture">Take Picture</string>
+    <string name="btPickPicture">Load Picture</string>
+
+    <string name="msg_InsertSuccess">Insert successfully</string>
+    <string name="msg_InsertFail">Insert fail</string>
+    <string name="msg_UpdateSuccess">Update successfully</string>
+    <string name="msg_UpdateFail">Update fail</string>
+    <string name="msg_DeleteSuccess">Delete successfully</string>
+    <string name="msg_DeleteFail">Delete fail</string>
+    <string name="msg_NameIsInvalid">Spot name is invalid</string>
+    <string name="msg_NoImage">No image</string>
+    <string name="msg_NoDataFound">No data found</string>
+    <string name="msg_NoCameraAppsFound">no camera apps found</string>
+    <string name="text_SpotPhone">Price</string>
+    <string name="text_SpotAddress">Author</string>
+    <string name="text_NotGranted">not granted</string>
+</resources>

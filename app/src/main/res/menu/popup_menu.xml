@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/insert"
+        android:title="@string/text_Insert" />
+    <item
+        android:id="@+id/update"
+        android:title="@string/text_Update" />
+    <item
+        android:id="@+id/delete"
+        android:title="@string/text_Delete" />
+
+</menu>
